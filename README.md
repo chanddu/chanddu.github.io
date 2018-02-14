@@ -1,6 +1,5 @@
-## Welcome to my Github account(chanddu)
-
-I post here the list of my projects that are documented.
+### Software Engineer (Machine Learning)(Big Data)(NLP)(AI)(ReactJS)
+Projects
 
 1. [Pump it Up : Data-Mining the Water Table](https://chanddu.github.io/Pump-it-Up-Data-Mining-the-Water-Table/)
 2. [Recommender Systems](https://chanddu.github.io/Recommender-Systems/)
